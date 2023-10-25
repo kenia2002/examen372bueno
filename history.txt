@@ -1,0 +1,47 @@
+    1  ~
+    2  mkdir examen372
+    3  cd examen372
+    4  touch create.sh
+    5  #!/bin/bash
+    6  git init
+    7  git commit -m "Initial commit,script added" 
+    8  ls create.sh
+    9  code create.sh
+   10  echo #!/bin/bash
+   11  code create.sh
+   12  ./create.sh
+   13  ./create.sh
+   14  ./create.sh
+   15  cmd //c tree //F ./
+   16    curl -o meme.jpg "https://pm1.aminoapps.com/7021/417429318f6b29b6bc737fb95ba1ddafc9ba2decr1-720-642v2_hq.jpg"
+   17  cmd //c tree //F ./
+   18  cmd //c tree //F ./
+   19  cmd //c tree //F ./
+   20  cmd //c tree //F ./
+   21  ./create.sh
+   22  cmd //c tree //F ./
+   23  git commit -m "Second commit, structure created"  
+   24  cmd //c tree //F ./
+   25  ./create.sh
+   26  cmd //c tree //F ./
+   27  git commit -m "Second commit, structure created"  
+   28  mv webapp/style.css css
+   29  ../
+   30  cmd //c tree //F ./
+   31  ls
+   32  $ git checkout style.css
+   33  git checkout style.css
+   34  ./create
+   35  ./create.sh
+   36  cmd //c tree //F ./
+   37  cmd //c tree //F ./
+   38* 
+   39  ./create.sh
+   40  cmd //c tree //F ./
+   41  ./create.sh
+   42  mv examen372.md examen372
+   43    mv C:\Users\kenia\Downloads\c514e789859c9107c63ab99efe27735d-128b5e3a1ea34028f61066cfa297f18436a13765\c514e789859c9107c63ab99efe27735d-128b5e3a1ea34028f61066cfa297f18436a13765\examen372.md examen372
+   44  examen372.md README.md
+   45  mv examen372.md README.md
+   46  git commit -m "Third commit, add README.md and final script updated"  
+   47  history > history.txt
